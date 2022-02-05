@@ -142,3 +142,91 @@ font-weight: 600;
 .partner .right a{}
 
 /* partner-send */
+/* services-section-start */
+.services-section{
+    padding: 50px 0px;
+}
+.service-titel{
+    text-align: center;
+}
+.service-titel h2{
+    margin-bottom: 20px;
+
+}
+
+
+.services{
+    margin-top: 50px;   
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   grid-column-gap: 30px;
+   grid-row-gap: 50px;
+}
+.services .service{
+  
+    text-align: center;
+  
+}
+.services .service p{
+ 
+}
+.services .service p{
+ 
+}
+.services .service p i{
+    font-size: 25px;
+ 
+}
+
+ .service .info-box{
+     padding: 35px 30px;
+     background: rgb(247, 247, 247);
+ }
+
+
+
+/* services-section-end*/
+
+   /* contact-us start */
+
+.contact-section{
+background:url(/media/img/sssss.jpg) no-repeat;
+background-size: cover;
+}
+.contact-us{
+    display: flex;
+}
+.contact h1{}
+.contact form{}
+.contact form p input{}
+.contact form textarea{}
+.contact-us .contact{
+    width: 50%;
+}
+.contact-us .location{
+      width: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* contact-us end */
